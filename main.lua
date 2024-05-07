@@ -10,7 +10,10 @@ function love.load()
     sti = require("libraries.sti")
     gameMap = sti("sprites/map.lua")
 
+    anim8 = require("libraries.anim8")
+
     love.graphics.setBackgroundColor(0.5, 0.6, 0.9) -- light blue
+    love.graphics.setDefaultFilter("nearest", "nearest")
 
     player = require("scripts.player")
     move_camera = require("scripts.utils.move_camera")
