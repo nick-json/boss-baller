@@ -77,7 +77,7 @@
  <objectgroup id="4" name="walls">
   <object id="4" x="396" y="340" width="40" height="39.6667"/>
   <object id="6" x="400" y="1104" width="32" height="44"/>
-  <object id="23" x="0" y="0" width="1920" height="123"/>
+  <object id="23" x="0" y="0" width="1920" height="124"/>
   <object id="26" x="1856" y="320" width="64" height="1340"/>
   <object id="27" x="0" y="1856" width="1920" height="64"/>
   <object id="28" x="0" y="320" width="64" height="1340"/>
